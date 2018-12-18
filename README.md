@@ -31,3 +31,7 @@ np_options3.py contains,
 
 1) np.random.rand implementation
 2) np.random.random implementation
+
+transpose.py contains,
+
+1) to find transpose of matrix
