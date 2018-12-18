@@ -3,7 +3,7 @@ NumPy learning and sharing
 
 Basic folder contains these files,
 
-np_basic.py contains,
+npbasic.py contains,
 
 1) np array creation
 2) type finding (type(array))
