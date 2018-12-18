@@ -3,7 +3,7 @@ NumPy learning and sharing
 
 Basic folder contains these files,
 
-Basic.py contains,
+np_basic.py contains,
 
 1) np array creation
 2) type finding (type(array))
@@ -12,7 +12,7 @@ Basic.py contains,
 5) size funding (array.size)
 6) datatype object finding (array.dtype)
 
-np_options.py contains,
+np_options1.py contains,
 
 1) changing type of np array
 2) to create a initialization array of zeros(np.zeros)
