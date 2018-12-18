@@ -1,6 +1,7 @@
 # NumPy-Personal-Archive
 NumPy learning and sharing
 
+Basic folder contains these files,
 
 Basic.py contains,
 
