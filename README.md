@@ -4,29 +4,29 @@ NumPy learning and sharing
 
 Basic.py contains,
 
---> np array creation
---> type finding (type(array))
---> dimension finding (array.ndim)
---> shape finding (array.shape)
---> size funding (array.size)
---> datatype object finding (array.dtype)
+1) np array creation
+2) type finding (type(array))
+3) dimension finding (array.ndim)
+4) shape finding (array.shape)
+5) size funding (array.size)
+6) datatype object finding (array.dtype)
 
 np_options.py contains,
 
---> changing type of np array
---> to create a initialization array of zeros(np.zeros)
---> to create an array of desired constant values  (np.full)
---> implementing range in array (np.arange)
---> print desired number of values within a limit (np.linspace)
---> reshaping array (np.reshape)
---> flattening array (np.flatten)
+1) changing type of np array
+2) to create a initialization array of zeros(np.zeros)
+3) to create an array of desired constant values  (np.full)
+4) implementing range in array (np.arange)
+5) print desired number of values within a limit (np.linspace)
+6) reshaping array (np.reshape)
+7) flattening array (np.flatten)
 
 np_options2.py contains,
 
---> conversion of list to np array
---> conversion of tuple to np array
+1) conversion of list to np array
+2) conversion of tuple to np array
 
 np_options3.py contains,
 
---> np.random.rand implementation
---> np.random.random implementation
+1) np.random.rand implementation
+2) np.random.random implementation
