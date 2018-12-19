@@ -41,3 +41,9 @@ np_uniform.py contains,
 
 np_binomial.py contains,
 1) to check binomial distribution over random samples for weight matrix in neural networks
+
+np_id.py contains,
+1) use of np.identity 
+
+np_eye.py contains,
+1) use of np.eye 
