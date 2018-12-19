@@ -47,3 +47,6 @@ np_id.py contains,
 
 np_eye.py contains,
 1) use of np.eye 
+
+np_load.py contains,
+1) to load data from a file as np array
