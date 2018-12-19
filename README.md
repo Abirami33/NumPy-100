@@ -84,3 +84,6 @@ np_geomspace.ipynb contains,
 
 np_logspace.ipynb contains,
 1) logspace operations and parameters
+
+np_max_min.ipynb contains,
+1) max and min on np arrays
