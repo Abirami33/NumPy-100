@@ -57,5 +57,5 @@ np_genfromtxt contains,
 np_saving.ipynb contains,
 1) how to save np array to different file formats
 
-np_sin.pynb contains,
+np_sin.ipynb contains,
 1) sin value operations
