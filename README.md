@@ -38,3 +38,6 @@ np_options4.py contains,
 
 np_uniform.py contains,
 1) to check uniform distribution over random samples for weight matrix in neural networks
+
+np_binomial.py contains,
+1) to check binomial distribution over random samples for weight matrix in neural networks
