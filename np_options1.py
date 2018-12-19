@@ -30,22 +30,7 @@ print(b6)
 
 #OUTPUT:
 '''
-stud@HP-246-Notebook-PC:~$ python np_options.py
-[[1. 2. 3.]
- [3. 4. 5.]
- [5. 6. 7.]]
-[[0. 0. 0. 0.]
- [0. 0. 0. 0.]
- [0. 0. 0. 0.]
- [0. 0. 0. 0.]]
-[[3 3 3]
- [3 3 3]]
-[1 3 5 7 9]
-[ 1.   2.5  4.   5.5  7.   8.5 10. ]
-[[1. 2. 3.]
- [3. 4. 5.]
- [5. 6. 7.]]
-stud@HP-246-Notebook-PC:~$ python np_options.py
+stud@HP-246-Notebook-PC:~$ python np_options1.py
 [[1. 2. 3.]
  [3. 4. 5.]
  [5. 6. 7.]]
