@@ -87,3 +87,21 @@ np_logspace.ipynb contains,
 
 np_max_min.ipynb contains,
 1) max and min on np arrays
+
+np_slice.ipynb contains,
+1) how to slice an array
+
+np_2d_slice.ipynb contains,
+1) how to do 2d slicing
+
+np_round.ipynb contains,
+1) around in numpy
+2) round in numpy
+
+np_rad_deg.ipynb contains,
+1) radians usage
+2) degrees usage
+
+np_rad2deg.ipynb contains,
+1) rad2deg in numpy
+2) deg2rad in numpy
