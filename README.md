@@ -69,3 +69,6 @@ np_saving.ipynb contains,
 
 np_sin.ipynb contains,
 1) sin value operations
+
+np_itemsize.py contains,
+1) how itemsize works on different types in byte format
