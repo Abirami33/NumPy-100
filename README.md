@@ -78,3 +78,9 @@ np_cos.ipynb contains,
 
 np_tan.ipynb contains,
 1) tan operations in numpy
+
+np_geomspace.ipynb contains,
+1) geomspace operations and parameters
+
+np_logspace.ipynb contains,
+1) logspace operations and parameters
