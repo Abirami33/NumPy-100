@@ -26,11 +26,13 @@ np_shaping.py contains,
 1) reshaping array (np.reshape)
 2) flattening array (np.flatten)
 
-np_options2.py contains,
+np_list.py contains,
 1) conversion of list to np array
-2) conversion of tuple to np array
 
-np_options3.py contains,
+np_tuple.py contains,
+1) conversion of tuple to np array
+
+np_random.py contains,
 1) np.random.rand implementation
 2) np.random.random implementation
 
