@@ -50,3 +50,6 @@ np_eye.py contains,
 
 np_load.py contains,
 1) to load data from a file as np array
+
+np_genfromtxt contains,
+1) the main usage of genfromtxt
