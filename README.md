@@ -34,7 +34,7 @@ transpose.py contains,
 np_data_strides.py contains,
 1) explains regarding memory allocation
 
-np_options4.py contains,
+np_ones_empty.py contains,
 1) to create an empty multi dimensional array
 2) to create an array full of ones
 
