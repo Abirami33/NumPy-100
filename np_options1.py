@@ -16,6 +16,8 @@ print(b2)
 b3=np.arange(1, 10, 2)
 print(b3)
 
+#NOTE: ARANGE IS SIMILAR TO LINSPACE BUT USES STEP SIZE INSTEAD OF NUMBER OF SAAMPLES
+
 #prints 7 values between 1 and 10
 b4=np.linspace(1, 10, 7)
 print(b4)
