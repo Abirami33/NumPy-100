@@ -53,3 +53,9 @@ np_load.py contains,
 
 np_genfromtxt contains,
 1) the main usage of genfromtxt
+
+np_saving.ipynb contains,
+1) how to save np array to different file formats
+
+np_sin.pynb contains,
+1) sin value operations
