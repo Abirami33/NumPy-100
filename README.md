@@ -11,14 +11,20 @@ np_feature.py contains,
 3) size funding (array.size)
 4) datatype object finding (array.dtype)
 
-np_options1.py contains,
+np_typecast.py contains,
 1) changing type of np array
-2) to create a initialization array of zeros(np.zeros)
-3) to create an array of desired constant values  (np.full)
-4) implementing range in array (np.arange)
-5) print desired number of values within a limit (np.linspace)
-6) reshaping array (np.reshape)
-7) flattening array (np.flatten)
+
+np_predefined_matrix.py contains,
+1) to create a initialization array of zeros(np.zeros)
+2) to create an array of desired constant values  (np.full)
+
+np_arange_linspace.py contains,
+1) implementing range in array (np.arange)
+2) print desired number of values within a limit (np.linspace)
+
+np_shaping.py contains,
+1) reshaping array (np.reshape)
+2) flattening array (np.flatten)
 
 np_options2.py contains,
 1) conversion of list to np array
