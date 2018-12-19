@@ -18,7 +18,7 @@ print("Data type object is: ", base.dtype)
 
 #OUTPUT:
 '''
-stud@HP-246-Notebook-PC:~$ python basic.py
+stud@HP-246-Notebook-PC:~$ python npbasic.py
 [['2' '3' '4']
  ['Raj' 'Ram' 'Yak']]
 <class 'numpy.ndarray'>
