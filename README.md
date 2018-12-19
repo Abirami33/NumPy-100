@@ -68,7 +68,10 @@ np_saving.ipynb contains,
 1) how to save np array to different file formats
 
 np_sin.ipynb contains,
-1) sin value operations
+1) sin value  angle operations
 
 np_itemsize.py contains,
 1) how itemsize works on different types in byte format
+
+np_cos.ipynb contains,
+1) cos value angle operations
