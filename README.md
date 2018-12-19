@@ -1,10 +1,7 @@
 # NumPy-Personal-Archive
 NumPy learning and sharing
 
-Basic folder contains these files,
-
 npbasic.py contains,
-
 1) np array creation
 2) type finding (type(array))
 3) dimension finding (array.ndim)
@@ -13,7 +10,6 @@ npbasic.py contains,
 6) datatype object finding (array.dtype)
 
 np_options1.py contains,
-
 1) changing type of np array
 2) to create a initialization array of zeros(np.zeros)
 3) to create an array of desired constant values  (np.full)
@@ -23,15 +19,15 @@ np_options1.py contains,
 7) flattening array (np.flatten)
 
 np_options2.py contains,
-
 1) conversion of list to np array
 2) conversion of tuple to np array
 
 np_options3.py contains,
-
 1) np.random.rand implementation
 2) np.random.random implementation
 
 transpose.py contains,
-
 1) to find transpose of matrix
+
+np_data_strides.py contains,
+1) explains regarding memory allocation
