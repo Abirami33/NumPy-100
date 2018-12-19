@@ -1,13 +1,15 @@
 # NumPy-Personal-Archive
 NumPy learning and sharing
 
-npbasic.py contains,
+np_creation.py contains,
 1) np array creation
 2) type finding (type(array))
-3) dimension finding (array.ndim)
-4) shape finding (array.shape)
-5) size funding (array.size)
-6) datatype object finding (array.dtype)
+
+np_feature.py contains,
+1) dimension finding (array.ndim)
+2) shape finding (array.shape)
+3) size funding (array.size)
+4) datatype object finding (array.dtype)
 
 np_options1.py contains,
 1) changing type of np array
