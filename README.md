@@ -35,3 +35,6 @@ np_data_strides.py contains,
 np_options4.py contains,
 1) to create an empty multi dimensional array
 2) to create an array full of ones
+
+np_uniform.py contains,
+1) to check uniform distribution over random samples for weight matrix in neural networks
