@@ -75,3 +75,6 @@ np_itemsize.py contains,
 
 np_cos.ipynb contains,
 1) cos value angle operations
+
+np_tan.ipynb contains,
+1) tan operations in numpy
