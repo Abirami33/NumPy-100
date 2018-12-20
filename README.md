@@ -126,3 +126,9 @@ np_verstack.ipynb contains,
 
 np_horstack.ipynb contains,
 1) horizontal stack creation using arrays
+
+np_rev_row_col.ipynb contains,
+1) reversing rows and reversing columns
+
+np_setops.ipynb contains,
+1) union,intersection,set difference of numpy arrays
