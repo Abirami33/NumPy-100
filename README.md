@@ -105,3 +105,24 @@ np_rad_deg.ipynb contains,
 np_rad2deg.ipynb contains,
 1) rad2deg in numpy
 2) deg2rad in numpy
+
+np_datetime.ipynb contains,
+1) date time operations in numpy
+
+np_isnan.ipynb contains,
+1) checking values with infinity using nan
+
+np_pad.ipynb contains,
+1) padding operations and modes in arrays
+
+np_repeat.ipynb contains,
+1) repitition of arrays
+
+np_tile.ipynb contains,
+1) tiling an array
+
+np_verstack.ipynb contains,
+1) vertical stack creation using arrays
+
+np_horstack.ipynb contains,
+1) horizontal stack creation using arrays
